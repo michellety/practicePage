@@ -1,0 +1,54 @@
+/*nav start */
+#navbarNav {
+ float: right;
+}
+
+#navHead {
+    background-color: rgb(144, 179, 233);
+    margin-top: 5px;
+    margin-bottom: 15px;
+    padding: 10px;
+    font-family: cursive;
+    font-size: 20px;
+    color: rgba(36, 36, 102, 0.89);
+}
+
+.navbar-brand {
+    font-size: 40px;
+}
+
+/*title start */
+#title {
+    text-align: center;
+    background-color: rgb(135, 224, 224);
+    margin-bottom: 15px;
+    padding: 10px;
+    font-family: cursive;
+}
+
+/*body start */
+
+body {
+    background-image: url("swirl.jpeg");
+    background-color: rgb(201, 168, 231);
+
+
+}
+
+.row {
+    background-color: rgb(116, 116, 139);
+}
+
+.col {
+    background-color: rgb(221, 130, 130);
+}
+
+
+#footer {
+    background-color: rgb(144, 179, 233);
+    margin-bottom: 5px;
+    padding: 10px;
+    font-family: cursive;
+    font-size: 20px;
+    color: rgba(36, 36, 102, 0.89);
+}
